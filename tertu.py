@@ -14,7 +14,7 @@ def draw_things():
     jacob.left(180)
     jacob.forward(80)
 
-    input("Press a key in the console...")
+    jacob.screen.exitonclick()
 
 
 if __name__ == '__main__':
