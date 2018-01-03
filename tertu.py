@@ -1,6 +1,5 @@
 import turtle
 
-
 def draw_things():
     avery = turtle.Pen()
     avery.forward(50)
